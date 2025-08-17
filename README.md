@@ -2,12 +2,3 @@
 
 ## 👩‍💻 저자 소개
 
-<p align="center">
-  <img src="./assets/엄다현.png" width="520" alt="Author introduction">
-</p>
-<p align="center">
-  <img src="./assets/문채은.png" width="520" alt="Author introduction">
-</p>
-<p align="center">
-  <img src="./assets/최예나.png" width="520" alt="Author introduction">
-</p>
